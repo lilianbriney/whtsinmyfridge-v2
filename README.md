@@ -1,4 +1,4 @@
-# whats in my fridge
+# What's in my fridge
 
 # Inventory Management Console Application
 This console application serves as a straightforward inventory management system, allowing users to effortlessly add, remove, and view items within their inventory. 
